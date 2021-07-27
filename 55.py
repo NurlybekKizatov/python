@@ -1,0 +1,6 @@
+w = int(input())
+y = int(input())
+z = (w//y) 
+f = (w%y)
+print(z)
+print(f)
